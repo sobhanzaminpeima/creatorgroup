@@ -1,0 +1,12 @@
+{
+  "dentistry": {
+    "url": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=1400&q=85",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative service photograph; not a partner clinic or staff"
+  },
+  "treatment": {
+    "url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1400&q=85",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative service photograph; not a partner clinic or staff"
+  }
+}

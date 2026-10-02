@@ -1,1 +1,0 @@
-export default function Loading(){return <div role="status" style={{minHeight:'100vh',background:'#edf4f5',padding:'20vh 8%',color:'#17354a'}}><div style={{height:18,width:'30%',background:'#cfe3e5',borderRadius:6}}/><div style={{height:70,width:'70%',background:'#dcebed',borderRadius:8,marginTop:30}}/><p style={{marginTop:30}}>Loading · در حال بارگذاری · Yükleniyor</p></div>}

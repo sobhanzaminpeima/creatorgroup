@@ -7,6 +7,6 @@ export function generateStaticParams(){return ['en','tr','fa'].map(lang=>({lang}
 export async function generateMetadata({params}:{params:Promise<{lang:string}>}):Promise<Metadata>{
  const {lang}=await params;if(!['en','tr','fa'].includes(lang))return{};const t=content[lang as Language];
  const title=`Creator Group — ${t.eyebrow}`;
- return {title,description:t.intro,alternates:{canonical:`${origin}/${lang}/services`,languages:{en:`${origin}/en`,tr:`${origin}/tr`,fa:`${origin}/fa`,'x-default':`${origin}/en`}},openGraph:{title,description:t.intro,url:`${origin}/${lang}/services`,locale:{en:'en_US',tr:'tr_TR',fa:'fa_IR'}[lang],type:'website'},twitter:{card:'summary',title,description:t.intro}};
+ return {title,description:t.intro,alternates:{canonical:`${origin}/${lang}/services`,languages:{en:`${origin}/en/services`,tr:`${origin}/tr/services`,fa:`${origin}/fa/services`,'x-default':`${origin}/fa/services`}},openGraph:{title,description:t.intro,url:`${origin}/${lang}/services`,locale:{en:'en_US',tr:'tr_TR',fa:'fa_IR'}[lang],type:'website'},twitter:{card:'summary',title,description:t.intro}};
 }
 export default async function Page({params}:{params:Promise<{lang:string}>}){const{lang}=await params;if(!['en','tr','fa'].includes(lang))notFound();return <CreatorSite lang={lang as Language}/>;}

@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   title: "Creator Group — International services",
   description: "Study, travel, healthcare and international coordination in three languages.",
   icons: {
-    icon: "/brand/creator-logo.png",
-    shortcut: "/brand/creator-logo.png",
+    icon: "/brand/creator-logo.webp",
+    shortcut: "/brand/creator-logo.webp",
   },
 };
 
