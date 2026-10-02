@@ -1,0 +1,6687 @@
+[
+ {
+  "university": "fenerbahce",
+  "program": "Eczacılık",
+  "faculty": "Eczacılık Fakültesi",
+  "duration": "5 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$16.000,00",
+   "regional": "$8.000,00",
+   "cash": "$7.200,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Eczacılık (İngilizce)",
+  "faculty": "Eczacılık Fakültesi",
+  "duration": "5 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$20.000,00",
+   "regional": "$10.000,00",
+   "cash": "$9.000,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Ekonomi ve Finans (İngilizce)",
+  "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İşletme (İngilizce)",
+  "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İngiliz Dili ve Edebiyatı (İngilizce)",
+  "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Psikoloji",
+  "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Psikoloji (İngilizce)",
+  "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Siyaset Bilimi ve Uluslararası İlişkiler (İng",
+  "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+  "duration": "ilizce)4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Veri Bilimi ve Analitiği",
+  "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Yönetim Bilişim Sistemleri",
+  "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Yönetim Bilişim Sistemleri (İngilizce)",
+  "faculty": "İktisadi, İdari ve Sosyal Bilimler Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Halkla İlişkiler ve Reklamcılık",
+  "faculty": "İletişim Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Radyo, Televizyon ve Sinema",
+  "faculty": "İletişim Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Yeni Medya ve İletişim",
+  "faculty": "İletişim Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Bilgisayar Mühendisliği (İngilizce)",
+  "faculty": "Mühendislik Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Endüstri Mühendisliği (İngilizce)",
+  "faculty": "Mühendislik Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Yazılım Mühendisliği (İngilizce)",
+  "faculty": "Mühendislik Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Elektrik-Elektronik Mühendisliği (İngilizc",
+  "faculty": "Mühendislik Fakültesi",
+  "duration": "e) 4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İç Mimarlık ve Çevre Tasarımı",
+  "faculty": "Mimarlık ve Tasarım Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İç Mimarlık ve Çevre Tasarımı (İngilizce)",
+  "faculty": "Mimarlık ve Tasarım Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Mimarlık",
+  "faculty": "Mimarlık ve Tasarım Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Beslenme ve Diyetetik",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Dil ve Konuşma Terapisi",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Ebelik",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Ergoterapi",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Fizyoterapi ve Rehabilitasyon",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Fizyoterapi ve Rehabilitasyon (İngilizce)",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Hemşirelik",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Hemşirelik (İngilizce)",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000,00",
+   "regional": "$4.250,00",
+   "cash": "$3.825,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Beden Eğitimi ve Spor Öğretmenliği",
+  "faculty": "Spor Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Antrenörlük Eğitimi",
+  "faculty": "Spor Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Spor Yöneticiliği",
+  "faculty": "Spor Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Egzersiz ve Spor Bilimleri",
+  "faculty": "Spor Bilimleri Fakültesi",
+  "duration": "4 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$3.400,00",
+   "cash": "$3.060,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Ağız ve Diş Sağlığı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Ameliyathane Hizmetleri",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Anestezi",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Diş Protez Teknolojisi",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Diyaliz",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Eczane Hizmetleri",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Fizyoterapi",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Fizyoterapi (İngilizce)",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İlk ve Acil Yardım",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Ortopedik Protez ve Ortez",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Patoloji Laboratuvar Teknikleri",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Radyoterapi",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Tıbbi Görüntüleme Teknikleri",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Tıbbi Veri İşleme Teknikerliği",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Tıbbi Laboratuvar Teknikleri",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "2 Yıl",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.800,00",
+   "regional": "$2.040,00",
+   "cash": "$1.836,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İşletme (Tezli) İngilizce",
+  "faculty": "Yüksek Lisasns",
+  "duration": "2 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$4.000,00",
+   "cash": "$3.600,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İşletme (Tezsiz) İngilizce",
+  "faculty": "Yüksek Lisasns",
+  "duration": "1,5 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$6.000,00",
+   "regional": "$3.000,00",
+   "cash": "$2.700,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İşletme (Tezli) Türkçe",
+  "faculty": "Yüksek Lisasns",
+  "duration": "2 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$4.000,00",
+   "cash": "$3.600,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İşletme (Tezsiz) Türkçe",
+  "faculty": "Yüksek Lisasns",
+  "duration": "1,5 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$6.000,00",
+   "regional": "$3.000,00",
+   "cash": "$2.700,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Siyaset Bilimi ve Uluslararası İlişkiler (Tez",
+  "faculty": "Yüksek Lisasns",
+  "duration": "li) 2 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$4.000,00",
+   "cash": "$3.600,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Siyaset Bilimi ve Uluslararası İlişkiler (Tez",
+  "faculty": "Yüksek Lisasns",
+  "duration": "siz) 1,5 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$6.000,00",
+   "regional": "$3.000,00",
+   "cash": "$2.700,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Örgütsel Davranış (Tezli)",
+  "faculty": "Yüksek Lisasns",
+  "duration": "2 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$4.000,00",
+   "cash": "$3.600,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Örgütsel Davranış (Tezsiz)",
+  "faculty": "Yüksek Lisasns",
+  "duration": "1,5 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$6.000,00",
+   "regional": "$3.000,00",
+   "cash": "$2.700,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Spor Bilimleri (Tezli)",
+  "faculty": "Yüksek Lisasns",
+  "duration": "2 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$4.000,00",
+   "cash": "$3.600,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Spor Bilimleri (Tezsiz)",
+  "faculty": "Yüksek Lisasns",
+  "duration": "1,5 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$6.000,00",
+   "regional": "$3.000,00",
+   "cash": "$2.700,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Klinik Eczacılık (Tezsiz)",
+  "faculty": "Yüksek Lisasns",
+  "duration": "1,5 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$6.000,00",
+   "regional": "$3.000,00",
+   "cash": "$2.700,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İç Hastalıkları Hemşireliği (Tezli)",
+  "faculty": "Yüksek Lisasns",
+  "duration": "2 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$4.000,00",
+   "cash": "$3.600,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Bilgisayar Mühendisliği (Tezli) (İngilizce)",
+  "faculty": "Yüksek Lisasns",
+  "duration": "2 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$4.000,00",
+   "cash": "$3.600,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Bilgisayar Mühendisliği (Tezli) (Türkçe)",
+  "faculty": "Yüksek Lisasns",
+  "duration": "2 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$4.000,00",
+   "cash": "$3.600,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Fizyoterapi ve Rehabilitasyon (Tezli) (Tür",
+  "faculty": "Yüksek Lisasns",
+  "duration": "kçe) 2 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$4.000,00",
+   "cash": "$3.600,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Egzersiz ve Spor Psikolojisi (Tezli) (Türkç",
+  "faculty": "Yüksek Lisasns",
+  "duration": "e) 2 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$8.000,00",
+   "regional": "$4.000,00",
+   "cash": "$3.600,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Mühendislik Yönetimi (Tezsiz) (İngilizce)",
+  "faculty": "Yüksek Lisasns",
+  "duration": "1,5 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$6.000,00",
+   "regional": "$3.000,00",
+   "cash": "$2.700,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Uygulamalı Veri Bilimi (Tezsiz) (İngilizce",
+  "faculty": "Yüksek Lisasns",
+  "duration": ") 1,5 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$6.000,00",
+   "regional": "$3.000,00",
+   "cash": "$2.700,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Uygulamalı Veri Bilimi (Tezsiz) (Türkçe)",
+  "faculty": "Yüksek Lisasns",
+  "duration": "1,5 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$6.000,00",
+   "regional": "$3.000,00",
+   "cash": "$2.700,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "İşletme Yönetimi (Doktora) Türkçe",
+  "faculty": "Doktora",
+  "duration": "4 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$15.000,00",
+   "regional": "$7.500,00",
+   "cash": "$6.750,00"
+  }
+ },
+ {
+  "university": "fenerbahce",
+  "program": "Spor Bilimleri (Doktora) Türkçe",
+  "faculty": "Doktora",
+  "duration": "4 Yıl",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$15.000,00",
+   "regional": "$7.500,00",
+   "cash": "$6.750,00"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Diş Hekimliği (Türkçe)",
+  "faculty": "DİŞ HEKİMLİĞİ FAKÜLTESİ",
+  "duration": "5 year",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$35.000"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Diş Hekimliği (İngilizce)",
+  "faculty": "DİŞ HEKİMLİĞİ FAKÜLTESİ",
+  "duration": "5 year",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$35.000"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Eczacılık (Türkçe)",
+  "faculty": "ECZACILIK FAKÜLTESİ",
+  "duration": "5 year",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$18.000"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Eczacılık (İngilizce)",
+  "faculty": "ECZACILIK FAKÜLTESİ",
+  "duration": "5 year",
+  "basis": "program",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$18.000"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Gastronomi ve Mutfak Sanatları (Türkçe)",
+  "faculty": "SANAT VE TASARIM FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Gastronomi ve Mutfak Sanatları (İngilizce)",
+  "faculty": "SANAT VE TASARIM FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "İç Mimarlık (Türkçe)",
+  "faculty": "SANAT VE TASARIM FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Dijital Oyun Tasarımı (İngilizce)",
+  "faculty": "SANAT VE TASARIM FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Görsel İletişim Tasarım (İngilizce)",
+  "faculty": "SANAT VE TASARIM FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Kentsel Tasarım ve Peyzaj Mimarlığı (Türkçe)",
+  "faculty": "SANAT VE TASARIM FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Radyo, Televizyon ve Sinema (Türkçe)",
+  "faculty": "SANAT VE TASARIM FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Endüstri Mühendisliği (Türkçe)",
+  "faculty": "MÜHENDİSLİK FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Bilgisayar Mühendisliği (Türkçe)",
+  "faculty": "MÜHENDİSLİK FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Ekonomi ve Finans (İngilizce)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Uluslararası İlişkiler (İngilizce)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Halkla İlişkiler ve Reklamcılık (Türkçe)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "İşletme (Türkçe)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "İşletme (İngilizce)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Psikoloji (Türkçe)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Psikoloji (İngilizce)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Siyaset Bilimi ve Kamu Yönetimi (Türkçe)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Siyaset Bilimi ve Kamu Yönetimi (İngilizce)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Sosyal Hizmetler (Türkçe)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Uluslararası Ticaret ve Lojistik (Türkçe)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Uluslararası Ticaret ve İşletmecilik (İngilizce)",
+  "faculty": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Sağlık Yönetimi (Türkçe)",
+  "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Beslenme ve Diyetetik (Türkçe)",
+  "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Beslenme ve Diyetetik (İngilizce)",
+  "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Çocuk Gelişimi (Türkçe)",
+  "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 1,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Fizyoterapi ve Rehabilitasyon (Türkçe)",
+  "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Fizyoterapi ve Rehabilitasyon (İngilizce)",
+  "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Hemşirelik (Türkçe)",
+  "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Hemşirelik (İngilizce)",
+  "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900",
+   "deposit": "$1.450"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Ebelik (Türkçe)",
+  "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Dil ve Konuşma Terapisi (Türkçe)",
+  "faculty": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+  "duration": "4 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$4.400",
+   "cash": "$2.200",
+   "deposit": "$1.100"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Çocuk Gelişimi (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Ameliyathane Hizmetleri (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Ağız ve Diş Sağlığı (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Fizyoterapi (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "İlk ve Acil Yardım (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Anestezi (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Tıbbi Dokümantasyon ve Sekreterlik (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Tıbbi Görüntüleme Teknikleri (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Eczane Hizmetleri (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Patoloji Laboratuvar Teknikleri (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Tıbbi Laboratuvar Teknikleri (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Diş Protez Teknolojisi (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Yaşlı Bakımı (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Dijital Sağlık Sistemleri Teknikerliği (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Tıbbi Veri İşleme Teknikerliği (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Tele-Sağlık Teknikerliği (Türkçe)",
+  "faculty": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Bilişim Güvenliği Teknolojisi (Tükçe)",
+  "faculty": "MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Mahkeme Büro Hizmetleri (Türkçe)",
+  "faculty": "MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Bilgisayar Programcılığı (Türkçe)",
+  "faculty": "MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Saç Bakımı ve Güzellik Hizmetleri (Türkçe)",
+  "faculty": "MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Kozmetik Teknolojisi (Türkçe)",
+  "faculty": "MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "E-Ticaret ve Pazarlama (Türkçe)",
+  "faculty": "MESLEK YÜKSEKOKULU",
+  "duration": "2 year",
+  "basis": "annual",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$3.200",
+   "cash": "$1.300",
+   "twoYearCash": "$1.800"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "İş Sağlığı ve Güvenliği (Tezsiz) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "3 semester",
+  "basis": "program",
+  "sourcePage": 2,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.000",
+   "cash": "$2.500",
+   "deposit": "$1.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Sağlık Yönetimi (Tezsiz) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "3 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.000",
+   "cash": "$2.500",
+   "deposit": "$1.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Sağlık Yönetimi (Tezli) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$7.000",
+   "cash": "$3.500",
+   "deposit": "$1.750"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Çocuk Gelişimi (Tezli) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$7.000",
+   "cash": "$3.500",
+   "deposit": "$1.750"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Gastronomi ve Mutfak Sanatları (Tezli) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$7.000",
+   "cash": "$3.500",
+   "deposit": "$1.750"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Gastronomi ve Mutfak Sanatları (Tezsiz) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "3 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.000",
+   "cash": "$2.500",
+   "deposit": "$1.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Beslenme ve Diyetetik (Tezli) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$7.000",
+   "cash": "$3.500",
+   "deposit": "$1.750"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Beslenme ve Diyetetik (Tezsiz) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "3 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.000",
+   "cash": "$2.500",
+   "deposit": "$1.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Uluslararası İşletmecilik (Tezsiz) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "3 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.000",
+   "cash": "$2.500",
+   "deposit": "$1.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "İşletme Yönetimi (Tezli) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$7.000",
+   "cash": "$3.500",
+   "deposit": "$1.750"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Siyaset Bilimi ve Uluslararası İlişkiler (Tezli) (İngilizce)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$7.000",
+   "cash": "$3.500",
+   "deposit": "$1.750"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Siyaset Bilimi ve Uluslararası İlişkiler (Tezsiz) (İngilizce)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "3 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.000",
+   "cash": "$2.500",
+   "deposit": "$1.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Uluslararası İşletmecilik ve Ticaret (Tezsiz) (İngilizce)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "3 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.000",
+   "cash": "$2.500",
+   "deposit": "$1.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Uluslararası Ticaret ve Lojistik (Tezli) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$7.000",
+   "cash": "$3.500",
+   "deposit": "$1.750"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Sosyal Hizmetler (Tezsiz) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "3 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.000",
+   "cash": "$2.500",
+   "deposit": "$1.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Medya ve Kültürel Çalışmalar (Tezsiz) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "3 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.000",
+   "cash": "$2.500",
+   "deposit": "$1.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Medya ve Kültürel Çalışmalar (Tezli) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$7.000",
+   "cash": "$3.500",
+   "deposit": "$1.750"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Halk Sağlığı Hemşireliği (Tezli) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$7.000",
+   "cash": "$3.500",
+   "deposit": "$1.750"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Klinik Psikoloji (Tezsiz) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "3 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$20.000",
+   "cash": "$15.000",
+   "deposit": "$15.000"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Klinik Psikoloji (Tezli) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$20.000",
+   "cash": "$15.000",
+   "deposit": "$15.000"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Farmakoloji (Tezli) (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "4 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$10.000",
+   "cash": "$5.000",
+   "deposit": "$5.000"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Agız Diş ve Çene Cerrahisi (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "8 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$35.000",
+   "cash": "$29.750",
+   "deposit": "$8.750"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Restoratif Diş Tedavisi (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "8 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$25.000",
+   "cash": "$20.000",
+   "deposit": "$6.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Ortodonti (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "8 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$25.000",
+   "cash": "$20.000",
+   "deposit": "$6.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Pedodonti (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "8 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$25.000",
+   "cash": "$20.000",
+   "deposit": "$6.250"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Gastronomi ve Mutfak Sanatları (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "8 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$6.000",
+   "cash": "$4.000",
+   "deposit": "$2.000"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "İşletme (Türkçe)",
+  "faculty": "LİSANSÜSTÜ EĞİTİM ENSTİTÜSÜ",
+  "duration": "8 semester",
+  "basis": "program",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$14.000",
+   "cash": "$7.000",
+   "deposit": "$3.500"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "Türkçe Hazırlık Programı",
+  "faculty": "",
+  "duration": "1 year",
+  "basis": "annual",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$1.200",
+   "cash": "$1.080"
+  }
+ },
+ {
+  "university": "kent",
+  "program": "İngilizce Hazırlık Programı",
+  "faculty": "",
+  "duration": "1 year",
+  "basis": "annual",
+  "sourcePage": 3,
+  "sourceVersion": "",
+  "values": {
+   "base": "$5.800",
+   "cash": "$2.900"
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıp Programı (İngilizce)*",
+  "faculty": "Uluslararası Tıp Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 3,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 44000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "cash10": 39600,
+   "scholarship25": 33660,
+   "cash25": 30294
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıp Programı",
+  "faculty": "Tıp Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 4,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 34000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "cash10": 30600,
+   "scholarship25": 26010,
+   "cash25": 23409
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıp Programı (İngilizce)",
+  "faculty": "Tıp Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 5,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 40000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "cash10": 36000,
+   "scholarship25": 30600,
+   "cash25": 27540
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diş Hekimliği Programı",
+  "faculty": "Diş Hekimliği Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 6,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 33000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "cash10": 29700,
+   "scholarship25": 25245,
+   "cash25": 22720.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diş Hekimliği Programı (İngilizce)",
+  "faculty": "Diş Hekimliği Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 7,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 36000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "cash10": 32400,
+   "scholarship25": 27540,
+   "cash25": 24786
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Eczacılık Programı",
+  "faculty": "Eczacılık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 8,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 15000,
+   "preparation": 1390,
+   "listedRegistration": "-",
+   "cash10": 13500,
+   "scholarship15": 12750,
+   "cash15": 11475
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Eczacılık Programı (İngilizce)",
+  "faculty": "Eczacılık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 9,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 18000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "cash10": 16200,
+   "scholarship25": 13770,
+   "cash25": 12393
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Beslenme ve Diyetetik Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 10,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Çocuk Gelişimi Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 11,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6000,
+   "preparation": 1390,
+   "listedRegistration": 12000,
+   "cash10": 5400,
+   "scholarship15": 5100,
+   "cash15": 4590
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Dil ve Konuşma Terapisi Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 12,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Dil ve Konuşma Terapisi Programı (İngilizce)",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 13,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4750,
+   "preparation": 4750,
+   "listedRegistration": 9500,
+   "cash10": 4275,
+   "scholarship15": 4037.5,
+   "cash15": 3633.75
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ebelik Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 14,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 8000,
+   "preparation": 1390,
+   "listedRegistration": 16000,
+   "cash10": 7200,
+   "scholarship15": 6800,
+   "cash15": 6120
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ergoterapi Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 15,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi ve Rehabilitasyon Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 16,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 8500,
+   "preparation": 1390,
+   "listedRegistration": 16000,
+   "cash10": 7650,
+   "scholarship15": 7225,
+   "cash15": 6502.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi ve Rehabilitasyon Programı (İngilizce)",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 17,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 9000,
+   "preparation": 9000,
+   "listedRegistration": 16000,
+   "cash10": 8100,
+   "scholarship15": 7650,
+   "cash15": 6885
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Hemşirelik Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 18,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 8750,
+   "preparation": 1390,
+   "listedRegistration": 16000,
+   "cash10": 7875,
+   "scholarship15": 7437.5,
+   "cash15": 6693.75
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Hemşirelik Programı (İngilizce)",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 19,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6000,
+   "preparation": 6000,
+   "listedRegistration": 12000,
+   "cash10": 5400,
+   "scholarship15": 5100,
+   "cash15": 4590
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Odyoloji Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 20,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ortez ve Protez Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 21,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5000,
+   "preparation": 1390,
+   "listedRegistration": 10000,
+   "cash10": 4500,
+   "scholarship15": 4250,
+   "cash15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sağlık Yönetimi Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 22,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sağlık Yönetimi Programı (İngilizce)",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 23,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sosyal Hizmet Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 24,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Beslenme ve Diyetetik Programı ",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 25,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4000,
+   "preparation": 1390,
+   "listedRegistration": 8000,
+   "cash10": 3600,
+   "scholarship15": 3400,
+   "cash15": 3060
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Çocuk Gelişimi Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 26,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ebelik Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 27,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 8000,
+   "preparation": 1390,
+   "listedRegistration": 16000,
+   "cash10": 7200,
+   "scholarship15": 6800,
+   "cash15": 6120
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi ve Rehabilitasyon Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 28,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 7000,
+   "preparation": 1390,
+   "listedRegistration": 14000,
+   "cash10": 6300,
+   "scholarship15": 5950,
+   "cash15": 5355
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Hemşirelik Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 29,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 7000,
+   "preparation": 1390,
+   "listedRegistration": 14000,
+   "cash10": 6300,
+   "scholarship15": 5950,
+   "cash15": 5355
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Odyoloji Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 30,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5000,
+   "preparation": 1390,
+   "listedRegistration": 10000,
+   "cash10": 4500,
+   "scholarship15": 4250,
+   "cash15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sosyal Hizmet Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 31,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4000,
+   "preparation": 1390,
+   "listedRegistration": 8000,
+   "cash10": 3600,
+   "scholarship15": 3400,
+   "cash15": 3060
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Bilgisayar Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 32,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 6500,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Biyomedikal Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 33,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 6500,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Elektrik-Elektronik Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 34,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6000,
+   "preparation": 6000,
+   "listedRegistration": 12000,
+   "cash10": 5400,
+   "scholarship15": 5100,
+   "cash15": 4590
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Endüstri Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 35,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4750,
+   "preparation": 4750,
+   "listedRegistration": 9500,
+   "cash10": 4275,
+   "scholarship15": 4037.5,
+   "cash15": 3633.75
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İnşaat Mühendisliği Programı",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 36,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 7000,
+   "preparation": 1390,
+   "listedRegistration": 14000,
+   "cash10": 6300,
+   "scholarship15": 5950,
+   "cash15": 5355
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İnşaat Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 37,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5000,
+   "preparation": 5000,
+   "listedRegistration": 10000,
+   "cash10": 4500,
+   "scholarship15": 4250,
+   "cash15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Yapay Zeka Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 38,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 10000,
+   "preparation": 10000,
+   "listedRegistration": 20000,
+   "cash10": 9000,
+   "scholarship15": 8500,
+   "cash15": 7650
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İlköğretim Matematik Öğretmenliği Programı",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 39,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İngilizce Öğretmenliği Programı (İngilizce)",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 40,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 5500,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Okul Öncesi Öğretmenliği Programı",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 41,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Özel Eğitim Öğretmenliği Programı",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 42,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Rehberlik ve Psikolojik Danışmanlık Programı",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 43,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Rehberlik ve Psikolojik Danışmanlık Programı (İngilizce)",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 44,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Endüstriyel Tasarım Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 45,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5000,
+   "preparation": 1390,
+   "listedRegistration": 10000,
+   "cash10": 4500,
+   "scholarship15": 4250,
+   "cash15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Gastronomi ve Mutfak Sanatları Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 46,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6000,
+   "preparation": 1390,
+   "listedRegistration": 12000,
+   "cash10": 5400,
+   "scholarship15": 5100,
+   "cash15": 4590
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Gastronomi ve Mutfak Sanatları Programı (İngilizce)",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 47,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4750,
+   "preparation": 4750,
+   "listedRegistration": 9500,
+   "cash10": 4275,
+   "scholarship15": 4037.5,
+   "cash15": 3633.75
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Görsel İletişim Tasarımı Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 48,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İç Mimarlık ve Çevre Tasarımı Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 49,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İç Mimarlık ve Çevre Tasarımı Programı (İngilizce)",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 50,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Kentsel Tasarım ve Peyzaj Mimarlığı Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 51,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Mimarlık Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 52,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Mimarlık Programı (İngilizce)",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 53,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5000,
+   "preparation": 5000,
+   "listedRegistration": 10000,
+   "cash10": 4500,
+   "scholarship15": 4250,
+   "cash15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Türk Müziği Anasanat Dalı Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 54,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5000,
+   "preparation": 1390,
+   "listedRegistration": 10000,
+   "cash10": 4500,
+   "scholarship15": 4250,
+   "cash15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Hukuk Programı",
+  "faculty": "Hukuk Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 55,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 8000,
+   "preparation": 8000,
+   "listedRegistration": 16000,
+   "cash10": 7200,
+   "scholarship15": 6800,
+   "cash15": 6120
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Gazetecilik Programı",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 56,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Halkla İlişkiler ve Reklamcılık Programı",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 57,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Halkla İlişkiler ve Reklamcılık Programı (İngilizce) ",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 58,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Medya ve Görsel Sanatlar Programı",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 59,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Radyo, Televizyon ve Sinema Programı",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 60,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Yeni Medya ve İletişim Programı",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 61,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Psikoloji Programı",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 62,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Psikoloji Programı (İngilizce)",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 63,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 5500,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Siyaset Bilimi ve Kamu Yönetimi Programı ",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 64,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6000,
+   "preparation": 1390,
+   "listedRegistration": 12000,
+   "cash10": 5400,
+   "scholarship15": 5100,
+   "cash15": 4590
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Siyaset Bilimi ve Kamu Yönetimi Programı (İngilizce)",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 65,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Siyaset Bilimi ve Uluslararası İlişkiler Programı (İngilizce)",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 66,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tarih Programı (İngilizce)",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 67,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 6500,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Bankacılık ve Sigortacılık Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 68,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ekonomi ve Finans Programı (İngilizce)",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 69,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Havacılık Yönetimi Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 70,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Havacılık Yönetimi Programı (İngilizce)",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 71,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İnsan Kaynakları Yönetimi Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 72,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İşletme Programı (İngilizce)",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 73,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 5500,
+   "preparation": 5500,
+   "listedRegistration": 11000,
+   "cash10": 4950,
+   "scholarship15": 4675,
+   "cash15": 4207.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Lojistik Yönetimi Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 74,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Lojistik Yönetimi Programı (İngilizce) ",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 75,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Uluslararası Ticaret ve Finansman Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 76,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Uluslararası Ticaret ve Finansman Programı (İngilizce)",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 77,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Yönetim Bilişim Sistemleri Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 78,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "cash10": 5850,
+   "scholarship15": 5525,
+   "cash15": 4972.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Yönetim Bilişim Sistemleri Programı (İngilizce)",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 79,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "cash10": 4050,
+   "scholarship15": 3825,
+   "cash15": 3442.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Adalet Programı",
+  "faculty": "Adalet Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 80,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ağız Ve Diş Sağlığı Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 81,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ameliyathane Hizmetleri Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 82,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Anestezi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 83,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Arka-Yüz Yazılım Geliştirme Programı (İngilizce)",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 84,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 3150
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Bilgisayar Programcılığı Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 85,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Bilgisayar Programcılığı Programı (İngilizce)",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 86,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 3150
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Biyomedikal  Cihaz Teknolojisi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 87,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Çocuk Gelişimi  Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 88,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diş Protez Teknolojisi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 89,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3500,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 3150
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diş Protez Teknolojisi Programı (İngilizce)",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 90,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3500,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 3150
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diyaliz Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 91,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Elektronörofizyoloji Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 92,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 93,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İç Mekan Tasarımı Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 94,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İlk Ve Acil Yardım Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 95,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İnşaat Teknolojisi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 96,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İş Sağlığı Ve Güvenliği Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 97,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Mimari Restorasyon Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 98,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Odyometri Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 99,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Optisyenlik Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 100,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Radyoterapi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 101,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Robotik Ve Yapay Zeka Programı (İngilizce)",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 102,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 3150
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sağlık Kurumları İşletmeciliği Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 103,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Siber Güvenlik Programı (İngilizce)",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 104,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 3150
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sivil Hava Ulaştırma İşletmeciliği Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 105,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Dokümantasyon Ve Sekreterlik Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 106,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Görüntüleme Teknikleri Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 107,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Laboratuvar Teknikleri Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 108,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ağız Ve Diş Sağlığı Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 109,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ameliyathane Hizmetleri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 110,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Anestezi Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 111,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Anestezi Programı (İngilizce) ",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 112,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 3150
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Çocuk Gelişimi Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 113,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diş Protez Teknolojisi Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 114,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 4050
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diyaliz Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 115,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Eczane Hizmetleri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 116,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Elektronörofizyoloji Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 117,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi  Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 118,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi Programı (İngilizce) ",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 119,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 3250,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İlk Ve Acil Yardım Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 120,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İlk ve Acil Yardım Programı (İngilizce)",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 121,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 3150
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İş Sağlığı Ve Güvenliği Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 122,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Odyometri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 123,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Optisyenlik Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 124,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Patoloji Laboratuvar Teknikleri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 125,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Radyoterapi Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 126,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sağlık Kurumları İşletmeciliği Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 127,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sosyal Güvenlik Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 128,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Dokümantasyon Ve Sekreterlik Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 129,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Görüntüleme Teknikleri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 130,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Laboratuvar Teknikleri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 131,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Bankacılık Ve Sigortacılık Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 132,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Dış Ticaret Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 133,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Halkla İlişkiler Ve Tanıtım Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 134,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İnsan Kaynakları Yönetimi Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 135,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İşletme Yönetimi Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 136,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Lojistik Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 137,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Maliye Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 138,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Muhasebe ve Vergi Uygulamaları  Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 139,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Radyo ve Televizyon Programcılığı Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 140,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sivil Havacılık Kabin Hizmetleri Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 141,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sosyal Hizmetler Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 142,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Spor Yönetimi Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 143,
+  "sourceVersion": "25-15",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "cash10": 2925
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıp Programı (İngilizce)*",
+  "faculty": "Uluslararası Tıp Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 3,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 44000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "scholarship25": 33000,
+   "scholarship15": 37400
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıp Programı",
+  "faculty": "Tıp Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 4,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 34000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "scholarship25": 25500,
+   "scholarship15": 28900
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıp Programı (İngilizce)",
+  "faculty": "Tıp Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 5,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 40000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "scholarship25": 30000,
+   "scholarship15": 34000
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diş Hekimliği Programı",
+  "faculty": "Diş Hekimliği Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 6,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 33000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "scholarship25": 24750,
+   "scholarship15": 28050
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diş Hekimliği Programı (İngilizce)",
+  "faculty": "Diş Hekimliği Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 7,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 36000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "scholarship25": 27000,
+   "scholarship15": 30600
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Eczacılık Programı",
+  "faculty": "Eczacılık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 8,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 15000,
+   "preparation": 1390,
+   "listedRegistration": "-",
+   "scholarship25": 11250,
+   "scholarship15": 12750
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Eczacılık Programı (İngilizce)",
+  "faculty": "Eczacılık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 9,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 18000,
+   "preparation": 17000,
+   "listedRegistration": "-",
+   "scholarship25": 13500,
+   "scholarship15": 15300
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Beslenme ve Diyetetik Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 10,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Çocuk Gelişimi Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 11,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6000,
+   "preparation": 1390,
+   "listedRegistration": 12000,
+   "scholarship25": 4500,
+   "scholarship15": 5100
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Dil ve Konuşma Terapisi Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 12,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Dil ve Konuşma Terapisi Programı (İngilizce)",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 13,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4750,
+   "preparation": 4750,
+   "listedRegistration": 9500,
+   "scholarship25": 3562.5,
+   "scholarship15": 4037.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ebelik Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 14,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 8000,
+   "preparation": 1390,
+   "listedRegistration": 16000,
+   "scholarship25": 6000,
+   "scholarship15": 6800
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ergoterapi Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 15,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi ve Rehabilitasyon Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 16,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 8500,
+   "preparation": 1390,
+   "listedRegistration": 16000,
+   "scholarship25": 6375,
+   "scholarship15": 7225
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi ve Rehabilitasyon Programı (İngilizce)",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 17,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 9000,
+   "preparation": 9000,
+   "listedRegistration": 16000,
+   "scholarship25": 6750,
+   "scholarship15": 7650
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Hemşirelik Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 18,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 8750,
+   "preparation": 1390,
+   "listedRegistration": 16000,
+   "scholarship25": 6562.5,
+   "scholarship15": 7437.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Hemşirelik Programı (İngilizce)",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 19,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6000,
+   "preparation": 6000,
+   "listedRegistration": 12000,
+   "scholarship25": 4500,
+   "scholarship15": 5100
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Odyoloji Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 20,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ortez ve Protez Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 21,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5000,
+   "preparation": 1390,
+   "listedRegistration": 10000,
+   "scholarship25": 3750,
+   "scholarship15": 4250
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sağlık Yönetimi Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 22,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sağlık Yönetimi Programı (İngilizce)",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 23,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sosyal Hizmet Programı",
+  "faculty": "Sağlık Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 24,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Beslenme ve Diyetetik Programı ",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 25,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4000,
+   "preparation": 1390,
+   "listedRegistration": 8000,
+   "scholarship25": 3000,
+   "scholarship15": 3400
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Çocuk Gelişimi Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 26,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ebelik Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 27,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 8000,
+   "preparation": 1390,
+   "listedRegistration": 16000,
+   "scholarship25": 6000,
+   "scholarship15": 6800
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi ve Rehabilitasyon Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 28,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 7000,
+   "preparation": 1390,
+   "listedRegistration": 14000,
+   "scholarship25": 5250,
+   "scholarship15": 5950
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Hemşirelik Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 29,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 7000,
+   "preparation": 1390,
+   "listedRegistration": 14000,
+   "scholarship25": 5250,
+   "scholarship15": 5950
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Odyoloji Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 30,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5000,
+   "preparation": 1390,
+   "listedRegistration": 10000,
+   "scholarship25": 3750,
+   "scholarship15": 4250
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sosyal Hizmet Programı",
+  "faculty": "Sağlık Bilimleri Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 31,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4000,
+   "preparation": 1390,
+   "listedRegistration": 8000,
+   "scholarship25": 3000,
+   "scholarship15": 3400
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Bilgisayar Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 32,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 6500,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Biyomedikal Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 33,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 6500,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Elektrik-Elektronik Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 34,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6000,
+   "preparation": 6000,
+   "listedRegistration": 12000,
+   "scholarship25": 4500,
+   "scholarship15": 5100
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Endüstri Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 35,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4750,
+   "preparation": 4750,
+   "listedRegistration": 9500,
+   "scholarship25": 3562.5,
+   "scholarship15": 4037.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İnşaat Mühendisliği Programı",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 36,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 7000,
+   "preparation": 1390,
+   "listedRegistration": 14000,
+   "scholarship25": 5250,
+   "scholarship15": 5950
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İnşaat Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 37,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5000,
+   "preparation": 5000,
+   "listedRegistration": 10000,
+   "scholarship25": 3750,
+   "scholarship15": 4250
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Yapay Zeka Mühendisliği Programı (İngilizce)",
+  "faculty": "Mühendislik ve Doğa Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 38,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 10000,
+   "preparation": 10000,
+   "listedRegistration": 20000,
+   "scholarship25": 7500,
+   "scholarship15": 8500
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İlköğretim Matematik Öğretmenliği Programı",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 39,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İngilizce Öğretmenliği Programı (İngilizce)",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 40,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 5500,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Okul Öncesi Öğretmenliği Programı",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 41,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Özel Eğitim Öğretmenliği Programı",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 42,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Rehberlik ve Psikolojik Danışmanlık Programı",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 43,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Rehberlik ve Psikolojik Danışmanlık Programı (İngilizce)",
+  "faculty": "Eğitim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 44,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Endüstriyel Tasarım Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 45,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5000,
+   "preparation": 1390,
+   "listedRegistration": 10000,
+   "scholarship25": 3750,
+   "scholarship15": 4250
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Gastronomi ve Mutfak Sanatları Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 46,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6000,
+   "preparation": 1390,
+   "listedRegistration": 12000,
+   "scholarship25": 4500,
+   "scholarship15": 5100
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Gastronomi ve Mutfak Sanatları Programı (İngilizce)",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 47,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4750,
+   "preparation": 4750,
+   "listedRegistration": 9500,
+   "scholarship25": 3562.5,
+   "scholarship15": 4037.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Görsel İletişim Tasarımı Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 48,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İç Mimarlık ve Çevre Tasarımı Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 49,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İç Mimarlık ve Çevre Tasarımı Programı (İngilizce)",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 50,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Kentsel Tasarım ve Peyzaj Mimarlığı Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 51,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Mimarlık Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 52,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Mimarlık Programı (İngilizce)",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 53,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5000,
+   "preparation": 5000,
+   "listedRegistration": 10000,
+   "scholarship25": 3750,
+   "scholarship15": 4250
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Türk Müziği Anasanat Dalı Programı",
+  "faculty": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 54,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5000,
+   "preparation": 1390,
+   "listedRegistration": 10000,
+   "scholarship25": 3750,
+   "scholarship15": 4250
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Hukuk Programı",
+  "faculty": "Hukuk Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 55,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 8000,
+   "preparation": 8000,
+   "listedRegistration": 16000,
+   "scholarship25": 6000,
+   "scholarship15": 6800
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Gazetecilik Programı",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 56,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Halkla İlişkiler ve Reklamcılık Programı",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 57,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Halkla İlişkiler ve Reklamcılık Programı (İngilizce) ",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 58,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Medya ve Görsel Sanatlar Programı",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 59,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Radyo, Televizyon ve Sinema Programı",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 60,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Yeni Medya ve İletişim Programı",
+  "faculty": "İletişim Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 61,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Psikoloji Programı",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 62,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Psikoloji Programı (İngilizce)",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 63,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 5500,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Siyaset Bilimi ve Kamu Yönetimi Programı ",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 64,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6000,
+   "preparation": 1390,
+   "listedRegistration": 12000,
+   "scholarship25": 4500,
+   "scholarship15": 5100
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Siyaset Bilimi ve Kamu Yönetimi Programı (İngilizce)",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 65,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Siyaset Bilimi ve Uluslararası İlişkiler Programı (İngilizce)",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 66,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tarih Programı (İngilizce)",
+  "faculty": "İnsan ve Toplum Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 67,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 6500,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Bankacılık ve Sigortacılık Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 68,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ekonomi ve Finans Programı (İngilizce)",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 69,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Havacılık Yönetimi Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 70,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Havacılık Yönetimi Programı (İngilizce)",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 71,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İnsan Kaynakları Yönetimi Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 72,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 1390,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İşletme Programı (İngilizce)",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 73,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 5500,
+   "preparation": 5500,
+   "listedRegistration": 11000,
+   "scholarship25": 4125,
+   "scholarship15": 4675
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Lojistik Yönetimi Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 74,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Lojistik Yönetimi Programı (İngilizce) ",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 75,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Uluslararası Ticaret ve Finansman Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 76,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Uluslararası Ticaret ve Finansman Programı (İngilizce)",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 77,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Yönetim Bilişim Sistemleri Programı",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 78,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 6500,
+   "preparation": 1390,
+   "listedRegistration": 13000,
+   "scholarship25": 4875,
+   "scholarship15": 5525
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Yönetim Bilişim Sistemleri Programı (İngilizce)",
+  "faculty": "İşletme ve Yönetim Bilimleri Fakültesi",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 79,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 4500,
+   "listedRegistration": 9000,
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Adalet Programı",
+  "faculty": "Adalet Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 80,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ağız Ve Diş Sağlığı Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 81,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ameliyathane Hizmetleri Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 82,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Anestezi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 83,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Arka-Yüz Yazılım Geliştirme Programı (İngilizce)",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 84,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2625,
+   "scholarship15": 2975
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Bilgisayar Programcılığı Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 85,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Bilgisayar Programcılığı Programı (İngilizce)",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 86,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2625,
+   "scholarship15": 2975
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Biyomedikal  Cihaz Teknolojisi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 87,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Çocuk Gelişimi  Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 88,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diş Protez Teknolojisi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 89,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3500,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2625,
+   "scholarship15": 2975
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diş Protez Teknolojisi Programı (İngilizce)",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 90,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3500,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2625,
+   "scholarship15": 2975
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diyaliz Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 91,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Elektronörofizyoloji Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 92,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 93,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İç Mekan Tasarımı Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 94,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İlk Ve Acil Yardım Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 95,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İnşaat Teknolojisi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 96,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İş Sağlığı Ve Güvenliği Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 97,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Mimari Restorasyon Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 98,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Odyometri Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 99,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Optisyenlik Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 100,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Radyoterapi Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 101,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Robotik Ve Yapay Zeka Programı (İngilizce)",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 102,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2625,
+   "scholarship15": 2975
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sağlık Kurumları İşletmeciliği Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 103,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Siber Güvenlik Programı (İngilizce)",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 104,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2625,
+   "scholarship15": 2975
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sivil Hava Ulaştırma İşletmeciliği Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 105,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Dokümantasyon Ve Sekreterlik Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 106,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Görüntüleme Teknikleri Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 107,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Laboratuvar Teknikleri Programı",
+  "faculty": "Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 108,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ağız Ve Diş Sağlığı Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 109,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Ameliyathane Hizmetleri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 110,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Anestezi Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 111,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Anestezi Programı (İngilizce) ",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 112,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2625,
+   "scholarship15": 2975
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Çocuk Gelişimi Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 113,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diş Protez Teknolojisi Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 114,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 4500,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 3375,
+   "scholarship15": 3825
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Diyaliz Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 115,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Eczane Hizmetleri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 116,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Elektronörofizyoloji Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 117,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi  Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 118,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Fizyoterapi Programı (İngilizce) ",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 119,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 3250,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İlk Ve Acil Yardım Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 120,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İlk ve Acil Yardım Programı (İngilizce)",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 121,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3500,
+   "preparation": 3500,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2625,
+   "scholarship15": 2975
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İş Sağlığı Ve Güvenliği Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 122,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Odyometri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 123,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Optisyenlik Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 124,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Patoloji Laboratuvar Teknikleri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 125,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Radyoterapi Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 126,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sağlık Kurumları İşletmeciliği Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 127,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sosyal Güvenlik Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 128,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Dokümantasyon Ve Sekreterlik Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 129,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Görüntüleme Teknikleri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 130,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Tıbbi Laboratuvar Teknikleri Programı",
+  "faculty": "Sağlık Hizmetleri Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 131,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Bankacılık Ve Sigortacılık Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 132,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Dış Ticaret Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 133,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Halkla İlişkiler Ve Tanıtım Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 134,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İnsan Kaynakları Yönetimi Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 135,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "İşletme Yönetimi Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 136,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Lojistik Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 137,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Maliye Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 138,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Muhasebe ve Vergi Uygulamaları  Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 139,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Radyo ve Televizyon Programcılığı Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 140,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sivil Havacılık Kabin Hizmetleri Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 141,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Sosyal Hizmetler Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 142,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ },
+ {
+  "university": "medipol",
+  "program": "Spor Yönetimi Programı",
+  "faculty": "Sosyal Bilimler Meslek Yüksekokulu",
+  "duration": "",
+  "basis": "source",
+  "sourcePage": 143,
+  "sourceVersion": "copy",
+  "values": {
+   "base": 3250,
+   "preparation": 1390,
+   "listedRegistration": "2 Yıllık",
+   "scholarship25": 2437.5,
+   "scholarship15": 2762.5
+  }
+ }
+]

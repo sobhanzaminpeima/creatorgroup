@@ -1,0 +1,31 @@
+import {digest,sameOrigin} from '@/lib/request-security';
+import { z } from 'zod';
+import { env } from 'cloudflare:workers';
+import {getRawDb} from '@/db/raw';
+const allowed=['study-abroad','exchange','crypto-exchange','hotel-reservation','medical','medical/dentistry','medical/treatment','insurance','residency','general'];
+const schema=z.object({formType:z.enum(['quick','full']),id:z.string().uuid(),secret:z.string().regex(/^[a-f0-9]{64}$/),name:z.string().trim().min(2).max(150),email:z.string().trim().email().max(254),phone:z.string().trim().min(5).max(50),country:z.string().trim().max(100),service:z.string().refine(s=>allowed.includes(s)),destination:z.string().trim().max(150),method:z.enum(['email','phone','whatsapp']),time:z.string().max(100),message:z.string().trim().max(4000),details:z.record(z.string().max(100),z.string().max(1000)).refine(d=>Object.keys(d).length<=30),consent:z.literal(true),medicalConsent:z.boolean(),language:z.enum(['fa','en','tr']),website:z.string().length(0)});
+function validFile(bytes:Uint8Array,type:string){if(type==='application/pdf')return new TextDecoder().decode(bytes.slice(0,5))==='%PDF-';if(type==='image/png')return [137,80,78,71,13,10,26,10].every((v,i)=>bytes[i]===v);if(type==='image/jpeg')return bytes[0]===255&&bytes[1]===216&&bytes[2]===255;return false;}
+export async function POST(request:Request){
+ if(!sameOrigin(request))return Response.json({error:'Invalid origin'},{status:403});
+ if(Number(request.headers.get('content-length')||0)>16*1024*1024)return Response.json({error:'Request too large'},{status:413});
+ let form:FormData;try{const reader=request.body?.getReader();if(!reader)throw Error('Empty body');const chunks:Uint8Array[]=[];let total=0;while(true){const part=await reader.read();if(part.done)break;total+=part.value.byteLength;if(total>16*1024*1024){await reader.cancel();return Response.json({error:'Request too large'},{status:413});}chunks.push(part.value);}const bytes=new Uint8Array(total);let offset=0;for(const chunk of chunks){bytes.set(chunk,offset);offset+=chunk.length;}form=await new Request(request.url,{method:'POST',headers:request.headers,body:bytes}).formData();}catch{return Response.json({error:'Invalid form'},{status:400});}
+ let value:unknown;try{value=JSON.parse(String(form.get('payload')));}catch{return Response.json({error:'Invalid payload'},{status:400});}
+ const parsed=schema.safeParse(value);if(!parsed.success)return Response.json({error:'Please check the fields'},{status:400});const p=parsed.data;
+ if(p.formType==='full'){
+ const required:Record<string,string[]>={'study-abroad':['age','qualification','gpa','field','languageLevel','budget'],exchange:['sourceCurrency','targetCurrency','amount','sourceCountry','transferType'],'crypto-exchange':['asset','network','amount','operation'],'hotel-reservation':['checkIn','checkOut','travelers','rooms','budget'],medical:['specialty'],'medical/dentistry':['specialty'],'medical/treatment':['specialty'],insurance:['insuranceType','startDate','duration','age'],residency:['nationality','age','route','budget']};
+ if(!p.destination||(required[p.service]||[]).some(k=>!p.details[k]?.trim()))return Response.json({error:'Required fields missing'},{status:400});
+ for(const k of ['age','amount','travelers','rooms'])if(p.details[k]){const n=Number(p.details[k]);const max=k==='age'?120:k==='rooms'?50:k==='travelers'?100:100000000;if(!Number.isFinite(n)||n<(k==='age'?0:k==='amount'?.00000001:1)||n>max||(['age','travelers','rooms'].includes(k)&&!Number.isInteger(n)))return Response.json({error:'Invalid number'},{status:400});}
+ if(p.service==='hotel-reservation'&&(!/^\d{4}-\d{2}-\d{2}$/.test(p.details.checkIn)||!/^\d{4}-\d{2}-\d{2}$/.test(p.details.checkOut)||p.details.checkOut<=p.details.checkIn))return Response.json({error:'Invalid dates'},{status:400});
+ }
+
+ const files=form.getAll('files').filter((f):f is File=>typeof f!=='string'&&f.size>0);const medical=p.service.startsWith('medical');
+ if(files.length>3||files.some(f=>f.size>5*1024*1024||!['application/pdf','image/png','image/jpeg'].includes(f.type)))return Response.json({error:'Invalid files'},{status:400});
+ if(files.length&&(!medical||!p.medicalConsent))return Response.json({error:'Medical consent required'},{status:400});
+ const keys:string[]=[];try{
+  const db=getRawDb();const hash=await digest(p.secret);const code='CG-'+p.id.replace(/-/g,'').slice(0,16).toUpperCase();
+  const existing=await db.prepare('SELECT key_hash,code FROM international_requests WHERE id=?').bind(p.id).first<{key_hash:string,code:string}>();if(existing){if(existing.key_hash!==hash)return Response.json({error:'Invalid request'},{status:409});return Response.json({saved:true,code:existing.code},{status:200});}
+  if(files.length&&!env.FILES)return Response.json({error:'Upload unavailable'},{status:503});
+  for(const f of files){const bytes=new Uint8Array(await f.arrayBuffer());if(!validFile(bytes,f.type)){for(const k of keys)await env.FILES!.delete(k);return Response.json({error:'File content does not match type'},{status:400});}const ext=f.type==='application/pdf'?'pdf':f.type==='image/png'?'png':'jpg';const key=`medical/${p.id}/${crypto.randomUUID()}.${ext}`;await env.FILES!.put(key,bytes,{httpMetadata:{contentType:f.type}});keys.push(key);}
+  await db.prepare('INSERT INTO international_requests (id,code,key_hash,name,email,phone,country,service,destination,method,contact_time,message,details,files,consent,medical_consent,language,status,created_at) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)').bind(p.id,code,hash,p.name,p.email,p.phone,p.country,p.service,p.destination,p.method,p.time,p.message,JSON.stringify(p.details),JSON.stringify(keys),1,p.medicalConsent?1:0,p.language,'received',Date.now()).run();return Response.json({saved:true,code},{status:201});
+ }catch{for(const k of keys){try{await env.FILES!.delete(k);}catch{}}console.error('International request storage unavailable');return Response.json({error:'Please try again'},{status:503});}
+}

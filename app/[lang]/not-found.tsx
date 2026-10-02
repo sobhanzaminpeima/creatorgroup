@@ -1,0 +1,1 @@
+export default function NotFound(){return <main style={{minHeight:'100vh',background:'#edf4f5',color:'#17354a',padding:'12vh 8%'}}><p>404</p><h1>Page not found · صفحه پیدا نشد · Sayfa bulunamadı</h1><div style={{display:'flex',gap:30,marginTop:30}}><a href="/fa">خانه</a><a href="/en">Home</a><a href="/tr">Ana sayfa</a></div></main>}

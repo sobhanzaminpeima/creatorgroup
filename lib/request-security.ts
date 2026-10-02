@@ -1,0 +1,2 @@
+export async function digest(value:string){const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(value));return Array.from(new Uint8Array(b),v=>v.toString(16).padStart(2,'0')).join('');}
+export function sameOrigin(request:Request){const origin=request.headers.get('origin');if(!origin)return true;try{const parsed=new URL(origin);return ['http:','https:'].includes(parsed.protocol)&&(parsed.origin===new URL(request.url).origin||parsed.host===request.headers.get('host'))}catch{return false}}
