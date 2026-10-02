@@ -15,6 +15,10 @@
 - Build output: `.next`
 - Hostinger مقدار PORT را تعیین می‌کند؛ start از آن استفاده می‌کند.
 
+اگر پنل فقط `npm run build` را در فهرست دستور ساخت نشان می‌دهد، همان را انتخاب کنید و متغیر `CREATOR_HOSTINGER=1` را اضافه کنید. این متغیر مسیر ساخت Next.js را فعال می‌کند. تنظیم فعلی دامنهٔ `creatorgroup.io`: Next.js، Node.js 24، دستور `npm run build` و خروجی `.next` است؛ Hostinger اجرای Next.js را مدیریت می‌کند.
+
+برای محدودیت منابع هاست، `RAYON_NUM_THREADS=1` و `UV_THREADPOOL_SIZE=1` را نیز در متغیرهای محیطی قرار دهید. تنظیم پروژه تعداد workerهای ساخت صفحات را به یک محدود می‌کند.
+
 ## متغیرهای محیطی
 
 `NEXT_PUBLIC_SITE_URL=https://your-domain.example`
