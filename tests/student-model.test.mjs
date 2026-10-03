@@ -1,0 +1,9 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {satisfaction,reviewSchema,ratingKeys,initialJourney,journeySchema} from '../lib/student-model.ts';
+const review=(overall=8,nationality='Iran')=>({program:'Dentistry',degree:'bachelor',nationality,yearStarted:2024,studentType:'student',overall,ratings:Object.fromEntries(ratingKeys.map(k=>[k,overall])),likes:'Real positive experience',improvements:'Real constructive feedback',advice:'Advice for new students',monthlyCost:600,currency:'USD',accommodationType:'Residence',chooseAgain:true,photos:[],evidence:[],consent:true});
+test('satisfaction does not publish a score with four verified reviews',()=>{assert.equal(satisfaction(Array.from({length:4},()=>review())).available,false);});
+test('satisfaction calculates ratings and protects tiny demographic groups',()=>{const s=satisfaction(Array.from({length:5},(_,i)=>review(i+6)));assert.equal(s.overall,8);assert.equal(s.count,5);assert.equal(s.chooseAgain,100);assert.deepEqual(s.insights,[]);assert.deepEqual(s.costs,[]);});
+test('same-currency cost and nationality insights require ten reviews',()=>{const s=satisfaction(Array.from({length:10},()=>review()));assert.equal(s.insights[0].count,10);assert.equal(s.costs[0].average,600);});
+test('invalid ratings and arbitrary file links are rejected',()=>{assert.equal(reviewSchema.safeParse({...review(),overall:11}).success,false);assert.equal(reviewSchema.safeParse({...review(),evidence:['https://example.com/private.pdf']}).success,false);});
+test('new journey never marks admission or travel as confirmed',()=>{const j=initialJourney();assert.equal(j.stages.find(s=>s.key==='admission').status,'not_started');assert.equal(j.stages.find(s=>s.key==='flight').status,'not_started');assert.equal(journeySchema.safeParse(j).success,true);assert.equal(journeySchema.safeParse({...j,stages:j.stages.map(()=>j.stages[0])}).success,false);});

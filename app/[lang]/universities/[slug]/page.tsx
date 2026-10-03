@@ -1,0 +1,10 @@
+import {notFound,redirect} from 'next/navigation';
+import type {Metadata} from 'next';
+import {getUniversity} from '@/lib/university-store';
+import {languageAlternates} from '@/app/seo';
+import {settings} from '@/app/international-data';
+import type {Language} from '@/app/content';
+import UniversityExperience from '@/app/university-experience';
+export const dynamic='force-dynamic';
+export async function generateMetadata({params}:{params:Promise<{lang:string;slug:string}>}):Promise<Metadata>{const{lang,slug}=await params;const u=await getUniversity(slug);if(!u||!['fa','en','tr'].includes(lang))return{};const path=`universities/${u.slug}`,l=lang as Language,url=`${settings.origin}/${l}/${path}`;return {title:`${u.name[l]} — Creator Group`,description:u.description[l],alternates:{canonical:url,languages:languageAlternates(path)},openGraph:{title:u.name[l],description:u.description[l],url,images:[{url:(u.heroImage.startsWith('/')?settings.origin+u.heroImage:u.heroImage),alt:u.name[l]}]},twitter:{card:'summary_large_image',title:u.name[l],description:u.description[l],images:[(u.heroImage.startsWith('/')?settings.origin+u.heroImage:u.heroImage)]}};}
+export default async function Page({params}:{params:Promise<{lang:string;slug:string}>}){const{lang,slug}=await params;if(!['fa','en','tr'].includes(lang))notFound();const u=await getUniversity(slug);if(!u)notFound();if(u.slug!==slug)redirect(`/${lang}/universities/${u.slug}`);const l=lang as Language;const schema={'@context':'https://schema.org','@type':'CollegeOrUniversity',name:u.name[l],url:u.officialWebsite,image:u.heroImage.startsWith('/')?(u.heroImage.startsWith('/')?settings.origin+u.heroImage:u.heroImage):u.heroImage,address:{'@type':'PostalAddress',addressLocality:u.city[l],addressCountry:u.countryCode},...(u.coordinates?{geo:{'@type':'GeoCoordinates',latitude:u.coordinates.lat,longitude:u.coordinates.lng}}:{})};return <><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema).replace(/</g,'\\u003c')}}/><UniversityExperience university={u} lang={l}/></>;}

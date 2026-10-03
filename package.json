@@ -13,7 +13,9 @@
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate",
     "build:hostinger": "next build --webpack",
-    "start:hostinger": "next start --hostname 0.0.0.0"
+    "start:hostinger": "next start --hostname 0.0.0.0",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs",
+    "test:platform": "node scripts/test-platform.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
