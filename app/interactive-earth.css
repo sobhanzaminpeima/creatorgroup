@@ -1,0 +1,39 @@
+.creator-earth{position:relative;isolation:isolate;width:100%;min-width:0;color:#f8fafc;font-family:inherit}
+.creator-earth-stage{position:relative;min-height:470px;height:clamp(470px,45vw,650px);overflow:hidden;border:1px solid rgba(141,169,211,.15);border-radius:28px;background:radial-gradient(ellipse at 52% 44%,rgba(30,72,136,.2),transparent 62%),linear-gradient(155deg,rgba(13,20,36,.74),rgba(7,11,20,.9));box-shadow:inset 0 1px 0 rgba(197,218,252,.04),0 30px 100px rgba(0,0,0,.17)}
+.creator-earth-canvas{position:absolute;inset:0;direction:ltr;touch-action:pan-y}
+.creator-earth-canvas canvas{display:block;width:100%;height:100%;cursor:grab;touch-action:pan-y}
+.creator-earth-canvas--fallback{opacity:.15}
+.creator-earth-orbit-label{position:absolute;inset-block-start:25px;inset-inline-start:27px;display:flex;align-items:center;gap:9px;font-size:10px;font-weight:600;letter-spacing:.2em;color:#89a2c5;pointer-events:none;direction:ltr}
+.creator-earth-orbit-label span{width:5px;height:5px;border-radius:50%;background:#77a9ef;box-shadow:0 0 11px rgba(93,159,252,.5)}
+.creator-earth-controls{position:absolute;inset-inline-end:22px;inset-block-start:22px;display:flex;gap:5px;z-index:3;padding:5px;background:rgba(9,16,29,.72);border:1px solid rgba(150,182,226,.18);border-radius:12px;backdrop-filter:blur(16px)}
+.creator-earth-controls button{display:grid;place-items:center;width:32px;height:32px;padding:0;border:0;border-radius:7px;background:transparent;color:#cedbf0;cursor:pointer;transition:background .2s,color .2s}
+.creator-earth-controls button:hover:not(:disabled){background:rgba(59,130,246,.18);color:white}
+.creator-earth-controls button:disabled{opacity:.4;cursor:default}
+.creator-earth-controls button:focus-visible,.creator-earth-destinations button:focus-visible,.creator-earth-explore:focus-visible{outline:2px solid #92bdff;outline-offset:4px}
+.creator-earth-state{position:absolute;inset-block-start:43%;inset-inline:10%;margin:0!important;text-align:center;font-size:14px;color:#aabbd2;line-height:1.8;pointer-events:none}
+.creator-earth-hint{position:absolute;inset-block-end:21px;inset-inline:20px;text-align:center;margin:0!important;font-size:11px;letter-spacing:.02em;color:#9bacc4;pointer-events:none}
+.creator-earth-card{position:absolute;inset-inline-start:24px;inset-block-end:62px;z-index:2;max-width:280px;width:calc(100% - 48px);padding:20px 21px 16px;background:rgba(11,20,36,.88);border:1px solid rgba(142,181,236,.28);border-radius:17px;box-shadow:0 12px 40px rgba(0,0,0,.26),inset 0 1px 0 rgba(180,211,255,.07);backdrop-filter:blur(20px);animation:creator-earth-card-arrive .24s ease-out}
+.creator-earth-card-title{display:flex;align-items:center;gap:10px;color:#f8fafc}
+.creator-earth-card-title img{border-radius:3px;object-fit:cover;box-shadow:0 0 0 1px rgba(255,255,255,.08)}
+.creator-earth-card-title strong{font-size:19px;font-weight:650;line-height:1.25;letter-spacing:-.02em}
+.creator-earth-card-title>span{margin-inline-start:auto;font-size:10px;letter-spacing:.1em;color:#7796c0}
+.creator-earth-card p{font-size:12px!important;line-height:1.65!important;color:#a6b7d0!important;margin:12px 0 0!important;max-width:none!important}
+.creator-earth-card p b{color:#f1f6ff;font-weight:600}
+.creator-earth-card-fields{color:#bfd2ec!important}
+.creator-earth-card-tuition a{display:block;color:#99b8e1;font-size:10px;margin-top:4px;text-decoration:underline;text-underline-offset:3px}
+.creator-earth-explore{display:flex;justify-content:space-between;align-items:center;gap:12px;text-decoration:none!important;border-top:1px solid rgba(153,183,226,.18);margin-top:15px;padding-top:13px;color:#95c1ff!important;font-size:12px;font-weight:600}
+.creator-earth-explore svg{flex-shrink:0}
+.creator-earth-destinations{display:flex;justify-content:center;flex-wrap:wrap;gap:7px;margin-top:15px}
+.creator-earth-destinations button{display:flex;align-items:center;justify-content:center;gap:8px;padding:10px 13px;border:1px solid rgba(146,174,213,.18);border-radius:10px;color:#b5c5dc;background:rgba(14,23,39,.67);font:inherit;font-size:12px;cursor:pointer;transition:background .2s,border-color .2s,color .2s}
+.creator-earth-destinations button img{object-fit:cover;border-radius:2px}
+.creator-earth-destinations button:hover,.creator-earth-destinations button[aria-pressed=true]{color:#eef5ff;background:rgba(29,78,216,.18);border-color:rgba(102,157,240,.55)}
+.creator-earth-credit{display:flex;flex-wrap:wrap;justify-content:center;gap:4px 14px;color:#778aa7;font-size:9px!important;line-height:1.6!important;margin:13px 0 0!important;text-align:center}
+.creator-earth-credit a{color:inherit;text-decoration:none}
+.creator-earth-credit a:hover{text-decoration:underline}
+.creator-earth-credit span{opacity:.9}
+.creator-earth--compact .creator-earth-stage{height:390px;min-height:390px;border-radius:20px}
+.creator-earth--compact .creator-earth-card{padding:15px 17px;inset-block-end:48px;max-width:245px}
+.creator-earth--compact .creator-earth-hint{inset-block-end:17px}
+@keyframes creator-earth-card-arrive{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:700px){.creator-earth-stage{min-height:410px;height:430px;border-radius:21px}.creator-earth-orbit-label{inset-block-start:25px;inset-inline-start:19px;font-size:8px;letter-spacing:.15em}.creator-earth-controls{inset-inline-end:13px;inset-block-start:14px;gap:1px;padding:3px}.creator-earth-controls button{width:28px;height:28px}.creator-earth-card{inset-inline-start:16px;inset-block-end:48px;max-width:245px;padding:16px 17px;width:calc(100% - 32px)}.creator-earth-card-title strong{font-size:17px}.creator-earth-card p{font-size:11px!important;margin-top:8px!important}.creator-earth-explore{font-size:11px;margin-top:10px;padding-top:10px}.creator-earth-hint{font-size:10px;inset-block-end:17px}.creator-earth-destinations{gap:6px;margin-top:12px}.creator-earth-destinations button{padding:9px 10px;font-size:11px}.creator-earth-credit{font-size:8px!important;padding-inline:8px}.creator-earth--compact .creator-earth-stage{min-height:330px;height:330px}}
+@media(prefers-reduced-motion:reduce){.creator-earth-card{animation:none}.creator-earth-destinations button,.creator-earth-controls button{transition:none}}

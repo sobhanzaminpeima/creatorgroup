@@ -1,0 +1,29 @@
+{
+  "verified_at": "2026-10-03",
+  "earth-day": {
+    "title": "NASA Blue Marble, land, ocean and ice (2002)",
+    "source_url": "https://visibleearth.nasa.gov/images/57730/the-blue-marble-land-surface-ocean-color-and-sea-ice",
+    "download_url": "https://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57730/land_ocean_ice_2048.jpg",
+    "credit": "NASA/Goddard Space Flight Center Scientific Visualization Studio, Reto Stöckli",
+    "usage": "NASA imagery, public domain; attribution retained; no NASA endorsement implied.",
+    "image_policy": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "processing": "Resized to 2048x1024 and 1024x512 WebP; no geographic content altered."
+  },
+  "earth-night": {
+    "title": "NASA Earth at Night (2000)",
+    "source_url": "https://visibleearth.nasa.gov/images/55167/earth-at-night",
+    "download_url": "https://eoimages.gsfc.nasa.gov/images/imagerecords/55000/55167/earth_lights_lrg.jpg",
+    "credit": "NASA/Goddard Space Flight Center; DMSP observations / NOAA National Geophysical Data Center",
+    "usage": "NASA imagery, public domain; attribution retained; historical visualization, not live satellite data.",
+    "processing": "Resized to 2048x1024 and 1024x512 WebP."
+  },
+  "destinations.geojson": {
+    "title": "Natural Earth Admin 0 Countries, 1:110m",
+    "source_url": "https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/",
+    "download_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+    "license": "Public domain",
+    "license_url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "processing": "Seven supported countries selected; original coordinate geometries preserved, descriptive attributes removed.",
+    "note": "Small-scale geographic overview, not a legal representation of borders."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "pharmacy": {
+    "source": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative program category visual; not a university facility",
+    "verifiedAt": "2026-10-03"
+  },
+  "engineering": {
+    "source": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative program category visual; not a university facility",
+    "verifiedAt": "2026-10-03"
+  },
+  "architecture": {
+    "source": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative program category visual; not a university facility",
+    "verifiedAt": "2026-10-03"
+  },
+  "computer-science": {
+    "source": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative program category visual; not a university facility",
+    "verifiedAt": "2026-10-03"
+  },
+  "business": {
+    "source": "https://images.unsplash.com/photo-1497366216548-37526070297c",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative program category visual; not a university facility",
+    "verifiedAt": "2026-10-03"
+  },
+  "gastronomy": {
+    "source": "https://images.unsplash.com/photo-1551218808-94e220e084d2",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative program category visual; not a university facility",
+    "verifiedAt": "2026-10-03"
+  },
+  "aviation": {
+    "source": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative program category visual; not a university facility",
+    "verifiedAt": "2026-10-03"
+  },
+  "law": {
+    "source": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f",
+    "license": "https://unsplash.com/license",
+    "usage": "Illustrative program category visual; not a university facility",
+    "verifiedAt": "2026-10-03"
+  }
+}

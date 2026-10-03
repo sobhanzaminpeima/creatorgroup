@@ -56,4 +56,29 @@ code,eligible,_=call('/api/universities/'+u['slug']+'/eligibility',{'nationality
 code,answer,_=call('/api/universities/'+u['slug']+'/assistant',{'question':'Does it have dormitories?','language':'en'});check(code==200 and 'not been verified' in answer['answer'],'assistant does not invent dormitories')
 check(call('/api/student',{'action':'travel','university':u['slug'],'kind':'hotel','fields':{'checkIn':'2026-10-10','checkOut':'2026-10-09'},'consent':True},cookie)[0]==400,'hotel date validation')
 code,trip,_=call('/api/student',{'action':'travel','university':u['slug'],'kind':'flight','fields':{'departure':'2026-11-01','destination':'Istanbul'},'consent':True},cookie);check(code==200 and trip['status']=='requested','missing provider records assistance, never a booking')
+# New discovery drafts import into the existing account without creating applications.
+code,countries,_=call('/api/countries');check(code==200 and len(countries['countries'])==7,'seven sourced country destinations')
+check(call('/api/country-admin')[0]==401,'country CMS is private')
+code,answer,_=call('/api/countries/turkiye/assistant',{'question':'Can students work?','language':'en'});check(code==200 and answer['source']['url'].startswith('https://') and answer['personalAssessmentRequired'],'country assistant cites authority and does not decide eligibility')
+draft={'version':1,'updatedAt':int(__import__('time').time()*1000),'preferences':{'field':'dentistry','countryCode':'TR','language':'English','degree':'bachelor','budget':35000,'intake':'2027'},'saved':[{'kind':'country','itemId':'turkiye','content':{'countryCode':'TR'}},{'kind':'program','itemId':u['slug']+'/'+u['programs'][0]['id'],'content':{'title':'Untrusted title'}}]}
+code,_,_=call('/api/student',{'action':'sync-draft','draft':draft},cookie);check(code==200,'guest country and programme import')
+code,personal,_=call('/api/student',cookie=cookie);check(personal['preferences']['field']=='dentistry' and personal['preferences']['budget']==35000,'student preference persistence')
+check(len(personal['journeys'])==1,'import never invents another application')
+check(next(x for x in personal['saved'] if x['kind']=='program')['content']['title']==u['programs'][0]['name'],'server canonicalises saved programme data')
+before=len(personal['saved']);call('/api/student',{'action':'sync-draft','draft':draft},cookie);check(len(call('/api/student',cookie=cookie)[1]['saved'])==before,'draft import is idempotent')
+bad={**draft,'saved':[{'kind':'university','itemId':'istanbul-atlas-university','content':{}},{'kind':'program','itemId':'fake-university/fake-program','content':{}}]}
+check(call('/api/student',{'action':'sync-draft','draft':bad},cookie)[0]==400 and len(call('/api/student',cookie=cookie)[1]['saved'])==before,'invalid draft rejected without partial imports')
+profile={'firstName':'Local','lastName':'Student','phone':'','homeCountry':'Iran','education':'high-school'}
+check(call('/api/student',{'action':'profile','profile':profile},cookie)[0]==200,'progressive private profile update')
+check(call('/api/student',cookie=cookie)[1]['profile']['firstName']=='Local','profile remains in its account')
+check(call('/api/student',cookie=other)[1]['preferences']['field']=='all','preferences cannot leak to another student')
+code,adminCountries,_=call('/api/country-admin',cookie=admin);check(code==200 and len(adminCountries['countries'])==7,'country editor uses existing admin session')
+record=adminCountries['countries'][0]
+check(call('/api/country-admin',{'country':record,'verified':False},admin)[0]==400,'country publication requires explicit source review')
+record['intelligence'][0]['verified_at']='2099-01-01';check(call('/api/country-admin',{'country':record,'verified':True},admin)[0]==400,'country source cannot claim future verification')
+record['intelligence'][0]['verified_at']='2026-10-03';record['published']=False
+check(call('/api/country-admin',{'country':record,'verified':True},admin)[0]==200,'country CMS accepts reviewed edits')
+check(not any(c['code']==record['code'] for c in call('/api/countries')[1]['countries']),'country draft override cannot reappear from seeds')
+check(call('/api/student',{'action':'save','kind':'country','itemId':record['slug']},cookie)[0]==400,'unpublished country cannot be newly saved')
+record['published']=True;check(call('/api/country-admin',{'country':record,'verified':True},admin)[0]==200,'country publishing restores verified destination')
 code,_,_=call('/api/student',{'action':'logout'},cookie);check(code==200 and call('/api/student',cookie=cookie)[1]['student'] is None,'logout revokes server session')
