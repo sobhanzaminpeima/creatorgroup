@@ -1,3 +1,5 @@
+> Current configuration: automatic lead notifications use email (see EMAIL.md). WhatsApp sending is disabled unless LEAD_NOTIFICATION_CHANNEL=whatsapp is explicitly set; the website forms currently call the email notifier.
+
 # WhatsApp lead notifications
 
 Recipient: +90 531 362 69 88. International and Creator services forms save the lead first, then enqueue a notification. Without API configuration, only the prepared-message button is active: the visitor opens WhatsApp and presses Send. A phone number alone does not enable automatic messaging.

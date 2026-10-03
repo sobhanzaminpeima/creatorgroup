@@ -1,7 +1,7 @@
 import {getRawDb} from '@/db/raw';
 import {leadWhatsAppNumber} from './whatsapp-link';
 type Lead={code:string;name:string;phone:string;email:string;service:string};
-export function whatsappConfigured(){return !!(process.env.WHATSAPP_ACCESS_TOKEN&&process.env.WHATSAPP_PHONE_NUMBER_ID&&process.env.WHATSAPP_TEMPLATE_NAME);}
+export function whatsappConfigured(){return process.env.LEAD_NOTIFICATION_CHANNEL==='whatsapp'&&!!(process.env.WHATSAPP_ACCESS_TOKEN&&process.env.WHATSAPP_PHONE_NUMBER_ID&&process.env.WHATSAPP_TEMPLATE_NAME);}
 export async function notifyLead(id:string,lead:Lead):Promise<'accepted'|'pending'|'unavailable'>{
  try{const db=getRawDb();await db.prepare('INSERT INTO whatsapp_notifications (id,payload,status,attempts,next_attempt_at,updated_at) VALUES (?,?,?,0,?,?) ON CONFLICT(id) DO NOTHING').bind(id,JSON.stringify(lead),'pending',Date.now(),Date.now()).run();return await dispatchNotification(id);}catch{console.error('WhatsApp notification queue unavailable');return 'unavailable';}
 }
