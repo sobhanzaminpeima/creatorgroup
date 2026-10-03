@@ -11,6 +11,7 @@ type EarthProps = {
   selectedCode?: string;
   onSelect?: (code: string) => void;
   compact?: boolean;
+  nightView?: boolean;
   destinations?: EarthDestination[];
 };
 type GlobeActions = { focus: (code: string) => void; zoom: (amount: number) => void; reset: () => void; pause: (paused: boolean) => void };
@@ -23,7 +24,7 @@ const copy = {
 };
 
 /** The globe never gates navigation: the same destinations remain keyboard-accessible. */
-export default function InteractiveEarth({ lang, selectedCode, onSelect, compact = false, destinations = earthDestinations }: EarthProps) {
+export default function InteractiveEarth({ lang, selectedCode, onSelect, compact = false, nightView = false, destinations = earthDestinations }: EarthProps) {
   const host = useRef<HTMLDivElement>(null);
   const actions = useRef<GlobeActions | null>(null);
   const selectCallback = useRef(onSelect);
@@ -97,11 +98,11 @@ export default function InteractiveEarth({ lang, selectedCode, onSelect, compact
         const dayUniform = { value: null as InstanceType<typeof THREE.Texture> | null };
         const nightUniform = { value: null as InstanceType<typeof THREE.Texture> | null };
         const material = new THREE.ShaderMaterial({
-          uniforms: { dayMap: dayUniform, nightMap: nightUniform, lightDirection: { value: new THREE.Vector3(-0.5, 0.45, 1).normalize() }, texturesReady: { value: false } },
+          uniforms: { dayMap: dayUniform, nightMap: nightUniform, lightDirection: { value: new THREE.Vector3(-0.5, 0.45, 1).normalize() }, texturesReady: { value: false }, nightView: { value: nightView } },
           vertexShader: `varying vec2 vUv; varying vec3 vNormal; varying vec3 vWorldPosition;
             void main(){ vUv=uv; vNormal=normalize(mat3(modelMatrix)*normal); vec4 p=modelMatrix*vec4(position,1.0); vWorldPosition=p.xyz; gl_Position=projectionMatrix*viewMatrix*p; }`,
-          fragmentShader: `uniform sampler2D dayMap; uniform sampler2D nightMap; uniform vec3 lightDirection; uniform bool texturesReady; varying vec2 vUv; varying vec3 vNormal; varying vec3 vWorldPosition;
-            void main(){ vec3 n=normalize(vNormal); float light=dot(n,lightDirection); float day=smoothstep(-0.22,0.4,light); vec3 base=texturesReady?texture2D(dayMap,vUv).rgb:vec3(0.025,0.07,0.15); vec3 night=texturesReady?texture2D(nightMap,vUv).rgb:vec3(0.0); vec3 lit=base*(0.18+day*0.84); lit+=night*(1.0-day)*0.8; float rim=pow(1.0-max(dot(n,normalize(cameraPosition-vWorldPosition)),0.0),3.5); lit+=vec3(0.02,0.12,0.3)*rim; gl_FragColor=vec4(lit,1.0);
+          fragmentShader: `uniform sampler2D dayMap; uniform sampler2D nightMap; uniform vec3 lightDirection; uniform bool texturesReady; uniform bool nightView; varying vec2 vUv; varying vec3 vNormal; varying vec3 vWorldPosition;
+            void main(){ vec3 n=normalize(vNormal); float light=dot(n,lightDirection); float day=smoothstep(-0.22,0.4,light); vec3 base=texturesReady?texture2D(dayMap,vUv).rgb:vec3(0.025,0.07,0.15); vec3 night=texturesReady?texture2D(nightMap,vUv).rgb:vec3(0.0); vec3 lit=base*(nightView?(0.015+day*0.025):(0.18+day*0.84)); lit+=night*(nightView?0.75:(1.0-day)*0.8); float rim=pow(1.0-max(dot(n,normalize(cameraPosition-vWorldPosition)),0.0),3.5); lit+=vec3(0.02,0.12,0.3)*rim; gl_FragColor=vec4(lit,1.0);
             #include <colorspace_fragment>
             }`,
         });
@@ -399,7 +400,7 @@ export default function InteractiveEarth({ lang, selectedCode, onSelect, compact
     }, { rootMargin: '240px' });
     startObserver.observe(container);
     return () => { disposed = true; abort.abort(); startObserver?.disconnect(); release?.(); };
-  }, [destinationSignature, compact]);
+  }, [destinationSignature, compact, nightView]);
 
   return <section className={`creator-earth${compact ? ' creator-earth--compact' : ''}`} dir={lang === 'fa' ? 'rtl' : 'ltr'} aria-label={c.label}>
     <div className="creator-earth-stage">

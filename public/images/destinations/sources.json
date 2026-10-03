@@ -1,0 +1,46 @@
+{
+  "TR": {
+    "source": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200",
+    "license": "https://unsplash.com/license",
+    "verifiedAt": "2026-10-03",
+    "changes": "Resized, compressed to WebP, displayed with cropping. CC derivatives retain the respective license."
+  },
+  "DE": {
+    "source": "https://images.unsplash.com/photo-1560969184-10fe8719e047",
+    "license": "https://unsplash.com/license",
+    "verifiedAt": "2026-10-03",
+    "changes": "Resized, compressed to WebP, displayed with cropping. CC derivatives retain the respective license."
+  },
+  "NL": {
+    "source": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017",
+    "license": "https://unsplash.com/license",
+    "verifiedAt": "2026-10-03",
+    "changes": "Resized, compressed to WebP, displayed with cropping. CC derivatives retain the respective license."
+  },
+  "ES": {
+    "source": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4",
+    "license": "https://unsplash.com/license",
+    "verifiedAt": "2026-10-03",
+    "changes": "Resized, compressed to WebP, displayed with cropping. CC derivatives retain the respective license."
+  },
+  "CN": {
+    "source": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d",
+    "license": "https://unsplash.com/license",
+    "verifiedAt": "2026-10-03",
+    "changes": "Resized, compressed to WebP, displayed with cropping. CC derivatives retain the respective license."
+  },
+  "CY": {
+    "source": "https://commons.wikimedia.org/wiki/File:Paphos_Harbour_6590.jpg",
+    "author": "Anna Anichkova",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "verifiedAt": "2026-10-03",
+    "changes": "Resized, compressed to WebP, displayed with cropping. CC derivatives retain the respective license."
+  },
+  "RU": {
+    "source": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_in_Moscow.jpg",
+    "author": "Tsy1980",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "verifiedAt": "2026-10-03",
+    "changes": "Resized, compressed to WebP, displayed with cropping. CC derivatives retain the respective license."
+  }
+}
