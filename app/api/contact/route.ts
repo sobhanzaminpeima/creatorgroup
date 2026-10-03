@@ -1,3 +1,4 @@
+import {notifyLead} from '@/lib/whatsapp-notifications';
 import {sameOrigin} from '@/lib/request-security';
 import { z } from 'zod';
 import { getRawDb } from '@/db/raw';
@@ -8,6 +9,6 @@ export async function POST(request:Request){
  let data;try{data=schema.safeParse(await request.json());}catch{return Response.json({error:'Invalid request'},{status:400});}
  if(!data.success)return Response.json({error:'Please check your details'},{status:400});
  const p=data.data;
- try{await getRawDb().prepare('INSERT INTO inquiries (id,name,company,email,phone,country,industry,interest,message,language,created_at) VALUES (?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(id) DO NOTHING').bind(p.id,p.name,p.company,p.email,p.phone,p.country,p.industry,p.interest,p.message,p.language,Date.now()).run();return Response.json({saved:true},{status:201});}
+ try{await getRawDb().prepare('INSERT INTO inquiries (id,name,company,email,phone,country,industry,interest,message,language,created_at) VALUES (?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(id) DO NOTHING').bind(p.id,p.name,p.company,p.email,p.phone,p.country,p.industry,p.interest,p.message,p.language,Date.now()).run();const lead=await getRawDb().prepare('SELECT name,email,phone,interest FROM inquiries WHERE id=?').bind(p.id).first<{name:string;email:string;phone:string;interest:string}>();const notification=lead?await notifyLead(p.id,{code:'CG-'+p.id.replace(/-/g,'').slice(0,16).toUpperCase(),name:lead.name,email:lead.email,phone:lead.phone,service:lead.interest}):'unavailable';return Response.json({saved:true,notification},{status:201});}
  catch(e){console.error('Inquiry storage unavailable',e);return Response.json({error:'Please try again shortly'},{status:503});}
 }

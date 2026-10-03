@@ -1,3 +1,4 @@
+import {notifyLead} from '@/lib/whatsapp-notifications';
 import {digest,sameOrigin} from '@/lib/request-security';
 import { z } from 'zod';
 import { env } from 'cloudflare:workers';
@@ -23,9 +24,9 @@ export async function POST(request:Request){
  if(files.length&&(!medical||!p.medicalConsent))return Response.json({error:'Medical consent required'},{status:400});
  const keys:string[]=[];try{
   const db=getRawDb();const hash=await digest(p.secret);const code='CG-'+p.id.replace(/-/g,'').slice(0,16).toUpperCase();
-  const existing=await db.prepare('SELECT key_hash,code FROM international_requests WHERE id=?').bind(p.id).first<{key_hash:string,code:string}>();if(existing){if(existing.key_hash!==hash)return Response.json({error:'Invalid request'},{status:409});return Response.json({saved:true,code:existing.code},{status:200});}
+  const existing=await db.prepare('SELECT key_hash,code,name,email,phone,service FROM international_requests WHERE id=?').bind(p.id).first<{key_hash:string,code:string,name:string,email:string,phone:string,service:string}>();if(existing){if(existing.key_hash!==hash)return Response.json({error:'Invalid request'},{status:409});const notification=await notifyLead(p.id,{code:existing.code,name:existing.name,email:existing.email,phone:existing.phone,service:existing.service});return Response.json({saved:true,code:existing.code,notification},{status:200});}
   if(files.length&&!env.FILES)return Response.json({error:'Upload unavailable'},{status:503});
   for(const f of files){const bytes=new Uint8Array(await f.arrayBuffer());if(!validFile(bytes,f.type)){for(const k of keys)await env.FILES!.delete(k);return Response.json({error:'File content does not match type'},{status:400});}const ext=f.type==='application/pdf'?'pdf':f.type==='image/png'?'png':'jpg';const key=`medical/${p.id}/${crypto.randomUUID()}.${ext}`;await env.FILES!.put(key,bytes,{httpMetadata:{contentType:f.type}});keys.push(key);}
-  await db.prepare('INSERT INTO international_requests (id,code,key_hash,name,email,phone,country,service,destination,method,contact_time,message,details,files,consent,medical_consent,language,status,created_at) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)').bind(p.id,code,hash,p.name,p.email,p.phone,p.country,p.service,p.destination,p.method,p.time,p.message,JSON.stringify(p.details),JSON.stringify(keys),1,p.medicalConsent?1:0,p.language,'received',Date.now()).run();return Response.json({saved:true,code},{status:201});
+  await db.prepare('INSERT INTO international_requests (id,code,key_hash,name,email,phone,country,service,destination,method,contact_time,message,details,files,consent,medical_consent,language,status,created_at) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)').bind(p.id,code,hash,p.name,p.email,p.phone,p.country,p.service,p.destination,p.method,p.time,p.message,JSON.stringify(p.details),JSON.stringify(keys),1,p.medicalConsent?1:0,p.language,'received',Date.now()).run();const notification=await notifyLead(p.id,{code,name:p.name,email:p.email,phone:p.phone,service:p.service});return Response.json({saved:true,code,notification},{status:201});
  }catch{for(const k of keys){try{await env.FILES!.delete(k);}catch{}}console.error('International request storage unavailable');return Response.json({error:'Please try again'},{status:503});}
 }
